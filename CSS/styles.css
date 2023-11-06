@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: slategray;
+}
+
+@font-face {
+    font-family:  source ;
+    src: url(../assets/SourceSansPro-Bold.ttf);
+}
+
+.pclass{
+    font-family: source;
+}
